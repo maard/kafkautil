@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/burdiyan/kafkautil"
+	"github.com/maard/kafkautil"
 	"github.com/spf13/cobra"
 )
 
